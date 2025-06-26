@@ -42,7 +42,7 @@
 
 训练```python train.py --config configs/your_own_data.txt```
 
-渲染```python train.py --config configs/your_own_data.txt.txt --ckpt path/to/your/checkpoint --render_only 1 --render_test 1 ```
+渲染```python train.py --config configs/your_own_data.txt --ckpt path/to/your/checkpoint --render_only 1 --render_test 1 ```
 
 未做更改的代码没有上传，请参考官方文件
 ## 3D Gaussian Splatting
