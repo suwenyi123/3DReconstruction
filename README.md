@@ -20,6 +20,8 @@
 ```              
 
 ## NeRF(torch版本)
+#### 官方开源库
+`https://github.com/yenchenlin/nerf-pytorch`
 #### 训练数据
 使用的llff格式文件（网盘链接里面的```.npy```文件）和原始图片
 #### 环境配置
@@ -33,6 +35,8 @@
 
 未做更改的代码没有上传，请参考官方文件
 ## TensoRF
+#### 官方开源库
+`https://github.com/apchenstu/TensoRF`
 #### 训练数据
 使用的json格式文件（网盘链接里面的```.json```文件）和原始图片
 #### 环境配置，
@@ -46,6 +50,8 @@
 
 未做更改的代码没有上传，请参考官方文件
 ## 3D Gaussian Splatting
+#### 官方开源库
+`https://github.com/graphdeco-inria/gaussian-splatting`
 #### 训练数据
 使用的colmap生成的```.bin```文件和原始图片
 #### 环境配置
